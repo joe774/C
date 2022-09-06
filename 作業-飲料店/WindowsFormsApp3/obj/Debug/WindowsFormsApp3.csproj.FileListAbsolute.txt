@@ -1,0 +1,89 @@
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\iii\Desktop\課程\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\joe\Desktop\WindowsFormsApp3 - 作業(完)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3 - 多選\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\專案\NET\WindowsFormsApp3 - 多選(完成)\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form2.resources
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\mx902\Downloads\作業-丁柏宏\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
